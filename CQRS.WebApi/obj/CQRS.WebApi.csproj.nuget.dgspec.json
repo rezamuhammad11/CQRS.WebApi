@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\048812100102017\\source\\repos\\CQRS.WebApi\\CQRS.WebApi\\CQRS.WebApi.csproj": {}
+    "D:\\GitHub\\CQRS.WebApi\\CQRS.WebApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\048812100102017\\source\\repos\\CQRS.WebApi\\CQRS.WebApi\\CQRS.WebApi.csproj": {
+    "D:\\GitHub\\CQRS.WebApi\\CQRS.WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\048812100102017\\source\\repos\\CQRS.WebApi\\CQRS.WebApi\\CQRS.WebApi.csproj",
+        "projectUniqueName": "D:\\GitHub\\CQRS.WebApi\\CQRS.WebApi.csproj",
         "projectName": "CQRS.WebApi",
-        "projectPath": "C:\\Users\\048812100102017\\source\\repos\\CQRS.WebApi\\CQRS.WebApi\\CQRS.WebApi.csproj",
+        "projectPath": "D:\\GitHub\\CQRS.WebApi\\CQRS.WebApi.csproj",
         "packagesPath": "C:\\Users\\048812100102017\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\048812100102017\\source\\repos\\CQRS.WebApi\\CQRS.WebApi\\obj\\",
+        "outputPath": "D:\\GitHub\\CQRS.WebApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\048812100102017\\AppData\\Roaming\\NuGet\\NuGet.Config",
