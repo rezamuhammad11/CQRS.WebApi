@@ -51,7 +51,7 @@ namespace CQRS.WebApi
                 c.SwaggerDoc("v1", new OpenApiInfo
                 {
                     Version = "v1",
-                    Title = "EFCore.CodeFirst.WebApi",
+                    Title = "CQRS.WebApi",
                 });
 
             });
@@ -77,7 +77,7 @@ namespace CQRS.WebApi
                 // specifying the Swagger JSON endpoint.
                 app.UseSwaggerUI(c =>
                 {
-                    c.SwaggerEndpoint("/swagger/v1/swagger.json", "EFCore.CodeFirst.WebApi");
+                    c.SwaggerEndpoint("/swagger/v1/swagger.json", "CQRS.WebApi");
                 });
                 #endregion
             }
